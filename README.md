@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0045-jump-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaSpitz/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/MalkaSpitz/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaSpitz/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/MalkaSpitz/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
