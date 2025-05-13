@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/MalkaSpitz/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
