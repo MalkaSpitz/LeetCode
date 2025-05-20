@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/MalkaSpitz/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/MalkaSpitz/LeetCode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/MalkaSpitz/LeetCode/tree/master/1877-find-followers-count) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
