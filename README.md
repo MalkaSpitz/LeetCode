@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MalkaSpitz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/MalkaSpitz/LeetCode/tree/master/0289-game-of-life) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MalkaSpitz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/MalkaSpitz/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
