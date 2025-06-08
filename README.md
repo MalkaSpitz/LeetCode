@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MalkaSpitz/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0112-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
