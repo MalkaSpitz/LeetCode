@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MalkaSpitz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MalkaSpitz/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/MalkaSpitz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/MalkaSpitz/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/MalkaSpitz/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MalkaSpitz/LeetCode/tree/master/0290-word-pattern) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MalkaSpitz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MalkaSpitz/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/MalkaSpitz/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MalkaSpitz/LeetCode/tree/master/0290-word-pattern) |
