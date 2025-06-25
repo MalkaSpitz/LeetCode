@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/MalkaSpitz/LeetCode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/MalkaSpitz/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MalkaSpitz/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaSpitz/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MalkaSpitz/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
