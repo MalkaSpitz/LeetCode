@@ -171,11 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MalkaSpitz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MalkaSpitz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MalkaSpitz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MalkaSpitz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
