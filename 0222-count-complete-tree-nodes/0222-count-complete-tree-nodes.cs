@@ -14,7 +14,6 @@
 public class Solution {
     public int CountNodes(TreeNode root) {
         if(root==null) return 0;
-        if(root.right==null&&root.left==null) return 1;
         return CountNodes(root.left) + CountNodes(root.right)+1;
     }
 }
