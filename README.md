@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/MalkaSpitz/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/MalkaSpitz/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/MalkaSpitz/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/MalkaSpitz/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/MalkaSpitz/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/MalkaSpitz/LeetCode/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/MalkaSpitz/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MalkaSpitz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/MalkaSpitz/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MalkaSpitz/LeetCode/tree/master/0071-simplify-path) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MalkaSpitz/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
