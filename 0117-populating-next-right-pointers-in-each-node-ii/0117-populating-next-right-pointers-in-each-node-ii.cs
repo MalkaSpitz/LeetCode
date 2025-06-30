@@ -35,11 +35,9 @@ public class Solution {
             temp=q.Dequeue();
             if(temp==null){
                 q.Enqueue(null);
-                last=null;
             }
             else{
                 temp.next=last;
-                last=temp;
                 if(temp.right!=null){
                     q.Enqueue(temp.right);
                 }
@@ -47,7 +45,7 @@ public class Solution {
                     q.Enqueue(temp.left);
                 }
             }
-            
+            last=temp;
         }
         return root;
     }
