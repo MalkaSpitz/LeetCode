@@ -2,9 +2,7 @@ public class Solution {
     public string Convert(string s, int numRows) {
         if (numRows == 1) return s;
         string[] S=new string[numRows];
-        for (int i = 0; i < numRows; i++) {
-            S[i] = "";
-        }
+        
         int ind=0;
         int whichQ=0;
         int isMinus=-1;
