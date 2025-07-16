@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/MalkaSpitz/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MalkaSpitz/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaSpitz/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/MalkaSpitz/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MalkaSpitz/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/MalkaSpitz/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## String
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
