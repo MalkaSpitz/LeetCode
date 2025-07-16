@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/MalkaSpitz/LeetCode/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
