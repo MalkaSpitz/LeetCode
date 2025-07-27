@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MalkaSpitz/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MalkaSpitz/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/MalkaSpitz/LeetCode/tree/master/3321-type-of-triangle) |
