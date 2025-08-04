@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/MalkaSpitz/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MalkaSpitz/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/MalkaSpitz/LeetCode/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/MalkaSpitz/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MalkaSpitz/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MalkaSpitz/LeetCode/tree/master/0290-word-pattern) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MalkaSpitz/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/MalkaSpitz/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
