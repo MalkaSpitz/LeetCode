@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/MalkaSpitz/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/MalkaSpitz/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/MalkaSpitz/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MalkaSpitz/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaSpitz/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/MalkaSpitz/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/MalkaSpitz/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/MalkaSpitz/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/MalkaSpitz/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/MalkaSpitz/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
