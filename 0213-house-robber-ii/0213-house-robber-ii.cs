@@ -20,6 +20,6 @@ public class Solution {
         for(int i=2;i<max.Length;i++){
             max[i]=Math.Max(max[i-1],nums[i]+max[i-2]);
         }
-        return Math.Max(max[max.Length-2],max[max.Length-1]);
+        return max[max.Length-1];
     }
 }
