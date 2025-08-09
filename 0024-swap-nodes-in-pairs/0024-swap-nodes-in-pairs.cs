@@ -10,23 +10,19 @@
  * }
  */
 public class Solution {
-        public ListNode SwapPairs(ListNode head) {
-        ListNode dummy = new ListNode(0, head);
-        ListNode temp = dummy;
-
-        while (temp.next != null && temp.next.next != null) {
-            ListNode first = temp.next;
-            ListNode second = temp.next.next;
-
-            // החלפה
-            first.next = second.next;
-            second.next = first;
-            temp.next = second;
-
-            // קפיצה לזוג הבא
-            temp = first;
+    public ListNode SwapPairs(ListNode head) {
+        ListNode dummy=new(0,head);
+        ListNode p=dummy;
+        while(p.next!=null&&p.next.next!=null){
+            Console.WriteLine($"{p.next.val} {p.next.next.val} ");
+            ListNode temp=p.next;
+            ListNode nextP=p.next.next.next;
+            p.next=p.next.next;
+            p.next.next=temp;
+            temp.next=nextP;
+            p = p.next.next;
+        
         }
-
         return dummy.next;
     }
 }
