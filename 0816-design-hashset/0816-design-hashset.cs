@@ -1,22 +1,19 @@
 public class MyHashSet {
-    List<int> h;
+    bool[] h;
     public MyHashSet() {
-        h=new();
+        h=new bool[10000001];
     }
     
     public void Add(int key) {
-        if(h.Contains(key)) 
-            return;
-        h.Add(key);
+        h[key]=true;
     }
     
     public void Remove(int key) {
-        if(h.Contains(key))
-            h.Remove(key);
+        h[key]=false;
     }
     
     public bool Contains(int key) {
-        return h.Contains(key);
+        return h[key];
     }
 }
 
