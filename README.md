@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/MalkaSpitz/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/MalkaSpitz/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/MalkaSpitz/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/MalkaSpitz/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/MalkaSpitz/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
 | [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MalkaSpitz/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MalkaSpitz/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MalkaSpitz/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -325,10 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
