@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MalkaSpitz/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MalkaSpitz/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/MalkaSpitz/LeetCode/tree/master/0279-perfect-squares) |
+| [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MalkaSpitz/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/MalkaSpitz/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
+| [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MalkaSpitz/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/MalkaSpitz/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -161,17 +163,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
+| [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/MalkaSpitz/LeetCode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Database
