@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MalkaSpitz/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/MalkaSpitz/LeetCode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/MalkaSpitz/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MalkaSpitz/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/MalkaSpitz/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/MalkaSpitz/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/MalkaSpitz/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MalkaSpitz/LeetCode/tree/master/0205-isomorphic-strings) |
