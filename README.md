@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MalkaSpitz/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MalkaSpitz/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/MalkaSpitz/LeetCode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/MalkaSpitz/LeetCode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MalkaSpitz/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/MalkaSpitz/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MalkaSpitz/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
