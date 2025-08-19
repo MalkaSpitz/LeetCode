@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/MalkaSpitz/LeetCode/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MalkaSpitz/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MalkaSpitz/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MalkaSpitz/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MalkaSpitz/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/MalkaSpitz/LeetCode/tree/master/0443-string-compression) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Queue
