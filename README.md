@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/MalkaSpitz/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/MalkaSpitz/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/MalkaSpitz/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MalkaSpitz/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MalkaSpitz/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1448-maximum-69-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
