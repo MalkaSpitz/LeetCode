@@ -20,11 +20,8 @@ public class Solution {
         }
         long totalSubarrays=0;
         foreach(KeyValuePair<int,int> kvp in counter){
-            Console.WriteLine($"key {kvp.Key} val {kvp.Value}");
             long subarrays=(long)kvp.Key * (kvp.Key + 1) / 2;
-            Console.WriteLine($"sub {subarrays}");
-            totalSubarrays += subarrays*kvp.Value;
-            Console.WriteLine($"total {totalSubarrays}");
+            totalSubarrays += ((long)kvp.Key * (kvp.Key + 1) / 2)*kvp.Value;
         }
         return totalSubarrays;
     }
