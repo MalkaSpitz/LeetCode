@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/MalkaSpitz/LeetCode/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/MalkaSpitz/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MalkaSpitz/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2470-removing-stars-from-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MalkaSpitz/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MalkaSpitz/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MalkaSpitz/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3396-valid-word](https://github.com/MalkaSpitz/LeetCode/tree/master/3396-valid-word) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/MalkaSpitz/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MalkaSpitz/LeetCode/tree/master/0071-simplify-path) |
+| [2470-removing-stars-from-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
 | ------- |
