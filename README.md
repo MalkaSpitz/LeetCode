@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/MalkaSpitz/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
+| [0969-number-of-recent-calls](https://github.com/MalkaSpitz/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MalkaSpitz/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MalkaSpitz/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
