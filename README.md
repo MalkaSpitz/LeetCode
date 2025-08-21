@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MalkaSpitz/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaSpitz/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/MalkaSpitz/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/MalkaSpitz/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MalkaSpitz/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/MalkaSpitz/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MalkaSpitz/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MalkaSpitz/LeetCode/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Queue
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/MalkaSpitz/LeetCode/tree/master/0164-maximum-gap) |
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/MalkaSpitz/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaSpitz/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/MalkaSpitz/LeetCode/tree/master/3321-type-of-triangle) |
