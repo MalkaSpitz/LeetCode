@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/MalkaSpitz/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/MalkaSpitz/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MalkaSpitz/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MalkaSpitz/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MalkaSpitz/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MalkaSpitz/LeetCode/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MalkaSpitz/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MalkaSpitz/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MalkaSpitz/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MalkaSpitz/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MalkaSpitz/LeetCode/tree/master/0443-string-compression) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MalkaSpitz/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MalkaSpitz/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
