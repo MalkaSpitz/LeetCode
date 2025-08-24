@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MalkaSpitz/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/MalkaSpitz/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/MalkaSpitz/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MalkaSpitz/LeetCode/tree/master/0189-rotate-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MalkaSpitz/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MalkaSpitz/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/MalkaSpitz/LeetCode/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0816-design-hashset](https://github.com/MalkaSpitz/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/MalkaSpitz/LeetCode/tree/master/0817-design-hashmap) |
