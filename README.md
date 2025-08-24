@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MalkaSpitz/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaSpitz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MalkaSpitz/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/MalkaSpitz/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/MalkaSpitz/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/MalkaSpitz/LeetCode/tree/master/0200-number-of-islands) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MalkaSpitz/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/MalkaSpitz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/MalkaSpitz/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MalkaSpitz/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MalkaSpitz/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MalkaSpitz/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/MalkaSpitz/LeetCode/tree/master/0279-perfect-squares) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MalkaSpitz/LeetCode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MalkaSpitz/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2470-removing-stars-from-a-string](https://github.com/MalkaSpitz/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
