@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/MalkaSpitz/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/MalkaSpitz/LeetCode/tree/master/3321-type-of-triangle) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/MalkaSpitz/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3830-find-closest-person](https://github.com/MalkaSpitz/LeetCode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
